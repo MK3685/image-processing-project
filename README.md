@@ -76,7 +76,7 @@ This collage demonstrates the effect of rotation, scaling, and translation appli
 
 Here, we show the result of blending the two images: **Cave.jpg** and **Garnacho.jpg**.
 
-![Blended Image](images/blended_image.jpg)
+![Blended Image](images/blended_image.png)
 
 > The blended image demonstrates how two images can be combined into a seamless composition using alpha blending. The transparency of each image can be adjusted to create smooth transitions.
 
