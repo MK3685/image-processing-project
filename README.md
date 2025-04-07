@@ -60,7 +60,7 @@ In this section, we show the results of multiple transformations and thresholdin
 
 This collage showcases the original image, the grayscale conversion, and the result after adaptive thresholding.
 
-![Collage: Original, Grayscale, Adaptive Thresholding](images/collage_1.jpg)
+![Collage: Original, Grayscale, Adaptive Thresholding](images/collage_1.png)
 
 > The collage above shows the evolution of the original image to a grayscale version and then to a binary (black-and-white) version using adaptive thresholding. Adaptive thresholding is particularly useful in distinguishing important features like edges from the background.
 
@@ -68,7 +68,7 @@ This collage showcases the original image, the grayscale conversion, and the res
 
 This collage demonstrates the effect of rotation, scaling, and translation applied to the original image.
 
-![Collage: Rotated, Scaled, Translated](images/collage_2.jpg)
+![Collage: Rotated, Scaled, Translated](images/collage_2.png)
 
 > In this collage, the image undergoes rotation (45 degrees), scaling (50% of the original size), and translation (shifted 100 pixels in the x direction and 50 pixels in the y direction). These transformations change the image’s orientation, size, and position.
 
